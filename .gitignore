@@ -1,0 +1,48 @@
+# Python 
+__pycache__/ 
+*.py[cod] 
+*$py.class 
+*.so 
+.Python 
+build/ 
+develop-eggs/ 
+dist/ 
+downloads/ 
+eggs/ 
+.eggs/ 
+lib/ 
+lib64/ 
+parts/ 
+sdist/ 
+var/ 
+wheels/ 
+*.egg-info/ 
+.installed.cfg 
+*.egg 
+ 
+# Virtual Environment 
+venv/ 
+.env 
+.venv 
+env/ 
+ENV/ 
+ 
+# Test and Reports 
+reports/ 
+logs/ 
+.pytest_cache/ 
+.coverage 
+htmlcov/ 
+.allure/ 
+allure_results/ 
+ 
+# IDE 
+.vscode/ 
+.idea/ 
+*.swp 
+*.swo 
+.DS_Store 
+ 
+# System files 
+Thumbs.db 
+desktop.ini 
